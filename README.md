@@ -18,7 +18,7 @@ As seguintes tecnologia foram usadas na construção do projeto: <br>
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en), . 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 <br>
 <br>
@@ -26,19 +26,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1](https://github.com/LeoGomes0/NodeJs_Curso.git
+$ git clone https://github.com/LeoGomes0/Nodejs_Curso2.git
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd Nodejs_Curso
+# Acesse a pasta que foi clonada na área de trabalho NodeJs_Curso2
+$ Nodejs_Curso2
 
-# Abrir o XAMPP
-$ MySQL -> start
+# Dentro da pasta, no campo de pesquisa (desktop > user > área de trabalho > Nodejs_Curso2)
+$ escreva cmd, em seguida ao abrir prompt de comando -> escreva exatamente: code .
 
-# Instale as dependências
+# Instale as dependências voltando ao prompt de comando
 $ npm i
-
-# Execute uma migração para criar suas tabelas de banco de dados com Prisma Migrate
-$ npx prisma migrate dev
 
 # Execute a aplicação
 $ npm start
