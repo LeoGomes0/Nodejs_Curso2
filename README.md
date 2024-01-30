@@ -6,7 +6,7 @@
 ## 🛠 Tecnologias
 
 As seguintes tecnologia foram usadas na construção do projeto: <br>
-[![made-with-JavaScript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg)]([https://www.javascript.com]([https://www.typescriptlang.org/)https://www.typescriptlang.org/](https://www.javascript.com/)) <br>
+[![made-with-JavaScript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg)](https://www.javascript.com/) <br>
 [![made-with-nodejs](https://img.shields.io/badge/Made%20with-Node.js-1f425f.svg)]([https://www.javascript.com](https://nodejs.org/en)https://nodejs.org/en) <br>
 [![made-with-prisma](https://img.shields.io/badge/Made%20with-Prisma-1f425f.svg)](https://www.prisma.io/) <br>
 [![made-with-mysql](https://img.shields.io/badge/Made%20with-MySQL-1f425f.svg)](https://www.mysql.com/) <br>
