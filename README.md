@@ -28,12 +28,12 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ segurar a tecla Windows (desenho de uma janela no teclado) junto com a letra R e em seguida escreva: cmd
 
 # Clone este repositório, copiando e colando no cmd e precione ENTER
-$ git clone https://github.com/LeoGomes0/Nodejs_Curso2.git
+$ git clone https://github.com/LeoGomes0/RAM-Manager.git
 
-# Acesse a pasta que foi clonada com o comando e der ENTER: cd Nodejs_Curso2
-$ Nodejs_Curso2
+# Acesse a pasta que foi clonada com o comando e der ENTER: cd RAM-Manager
+$ RAM-Manager
 
-# Dentro da pasta do arquivo clonado, no campo de pesquisa (desktop > user > área de trabalho > Nodejs_Curso2)
+# Dentro da pasta do arquivo clonado, no campo de pesquisa (desktop > user > área de trabalho > RAM-Manager)
 $ escreva cmd e der ENTER, em seguida ao abrir prompt de comando -> escreva exatamente: code .
 
 # Instale as dependências voltando ao prompt de comando
