@@ -32,7 +32,7 @@ $ git clone https://github.com/LeoGomes0/Nodejs_Curso2.git
 $ Nodejs_Curso2
 
 # Dentro da pasta, no campo de pesquisa (desktop > user > área de trabalho > Nodejs_Curso2)
-$ escreva cmd der ENTER, em seguida ao abrir prompt de comando -> escreva exatamente: code .
+$ escreva cmd e der ENTER, em seguida ao abrir prompt de comando -> escreva exatamente: code .
 
 # Instale as dependências voltando ao prompt de comando
 $ npm i
