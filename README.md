@@ -25,7 +25,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Abrir o cmd
-$ segurar a tecla Windows (desenho de uma janela no teclado) junto com a letra R e em seguida escreva cmd
+$ segurar a tecla Windows (desenho de uma janela no teclado) junto com a letra R e em seguida escreva: cmd
 
 # Clone este repositório
 $ git clone https://github.com/LeoGomes0/Nodejs_Curso2.git
